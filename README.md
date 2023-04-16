@@ -17,10 +17,6 @@ As a 5th semester Information Science undergraduate, I have a 5 star rating on H
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xvisierra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xvisierra&icon=6&color=2)](https://visitcount.itsvg.in)
 
