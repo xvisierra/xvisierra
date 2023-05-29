@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a 6th semester Information Science undergraduate, I have a 5 star rating on HackerRank and have solved over 300 problems on GeeksForGeeks and Leetcode. I am proficient in C++, C, Java, HTML, CSS, JavaScript and frameworks like Bootstrap. I also have experience in MySQL for database management, and have completed certification courses from Coursera, Devtown, and ISRO to further enhance my coding skills. My GitHub account showcases my projects, demonstrating my attention to detail and ability to produce high-quality code. I am passionate about coding and constantly strive to improve my skills.
+As a 6th semester Information Science undergraduate, I am a 3 ⭐ at Codechef(1607 highest), a 5 star rating on HackerRank and have over 500+ CodeScore on GeeksForGeeks. I am proficient in C++, C, Java, HTML, CSS, JavaScript and frameworks like Bootstrap. I also have experience in MySQL for database management, and have completed certification courses from Coursera, Devtown, and ISRO to further enhance my coding skills. My GitHub account showcases my projects, demonstrating my attention to detail and ability to produce high-quality code. I am passionate about coding and constantly strive to improve my skills.
 
 
 ## 🌐 Socials:
