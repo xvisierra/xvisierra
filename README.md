@@ -6,6 +6,8 @@ As a 6th semester Information Science undergraduate, I am a 3 ⭐ at Codechef(16
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xvisierra) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%237fdaa6.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/xvisierra)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/xvisierra)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300b300.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/xvisierra/practice/)
+
 
 
 
