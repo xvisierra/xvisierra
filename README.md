@@ -23,6 +23,3 @@ As a 6th semester Information Science undergraduate, I am a 3 ⭐ at Codechef(16
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xvisierra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
