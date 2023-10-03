@@ -7,7 +7,7 @@ As a 6th semester Information Science undergraduate, I am a 3 ⭐ at Codechef(16
 [![CodeChef](https://img.shields.io/badge/CodeChef-%237fdaa6.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/xvisierra)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/xvisierra)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300b300.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/xvisierra/practice/)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?logo=Twitter&logoColor=white)](https://twitter.com/xvisierra)
 
 [![An image of @xvisierra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xvisierra)](https://holopin.io/@xvisierra)
 
