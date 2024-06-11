@@ -1,7 +1,5 @@
 # 💫 About Me:
 ## 👋 Hi, I’m Sameer Kumar Singh
-- 🎓 I’m currently pursuing my Bachelor of Engineering
-- 💼 I’m currently a Student Intern at Nokia Solutions Networks, Bangalore, India (September 2023 – Present)
 - 💻 My technical skills include C++, C, Java, Python, HTML5, CSS3, Javascript, SQL, Git, Github, VS Code, Linux, Shell, Bash, Valgrind, Gerrit, API, Object-Oriented Analysis and Design, Data Structures and Algorithms
 - 🤝 I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability
 - 🏆 I have won the Joget Track Award at HackOverflow (May 2023), emerged victorious in CodeBreak coding contest organized by BigO Club (January 2022), and led my team to victory as Chess Captain, Dept. of ISE (March 2022)
