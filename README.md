@@ -1,9 +1,14 @@
 # 💫 About Me:
 ## 👋 Hi, I’m Sameer Kumar Singh
-- 💻 My technical skills include C++, C, Java, Python, HTML5, CSS3, Javascript, SQL, Git, Github, VS Code, Linux, Shell, Bash, Valgrind, Gerrit, API, Object-Oriented Analysis and Design, Data Structures and Algorithms
-- 🤝 I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability
-- 🏆 I have won the Joget Track Award at HackOverflow (May 2023), emerged victorious in CodeBreak coding contest organized by BigO Club (January 2022), and led my team to victory as Chess Captain, Dept. of ISE (March 2022)
-- 📜 I have completed courses like ‘Learn and Master C Programming For Absolute Beginners!’ from Infosys SpringBoard (July 2021 – Present) and ‘HTML, CSS, and Javascript for Web Developers’ from Coursera (Johns Hopkins University) (June 2021 – Present)
+
+- 💻 I have been working as a Software Engineer I at HashedIn by Deloitte since July 2024, where I develop scalable backend applications using Java, Spring Boot, JPA, and REST APIs, achieving over 90% code coverage through JUnit tests.
+- I also work on proprietary Large Language Models (LLMs) and Generative AI technologies to automate processes, enhancing productivity by 30-40%, and assist in migrating legacy Java codebases for improved maintainability.
+- 🛠️ My technical skills include:
+  - **Current Skills:** Java, Spring Boot, JPA, REST APIs, Large Language Models, Generative AI
+  - **Other Skills:** C++, C, Python, HTML5, CSS3, JavaScript, SQL, Git, GitHub, VS Code, Linux, Shell, Bash, Valgrind, Gerrit, API, Object-Oriented Analysis and Design, Data Structures and Algorithms.
+- 🤝 I possess leadership skills such as Communication, Collaboration, Critical Thinking, Problem-Solving, Teamwork, and Adaptability.
+- 🏆 I have won the Joget Track Award at HackOverflow (May 2023), emerged victorious in the CodeBreak coding contest organized by BigO Club (January 2022), and led my team to victory as Chess Captain, Department of ISE (March 2022).
+- 📜 I have completed courses like “Learn and Master C Programming For Absolute Beginners!” from Infosys SpringBoard (July 2021 – Present) and “HTML, CSS, and JavaScript for Web Developers” from Coursera (Johns Hopkins University) (June 2021 – Present).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xvisierra) 
